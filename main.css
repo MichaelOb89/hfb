@@ -4,7 +4,9 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
+  /* The BEST */
+  background-color: blueviolet; 
+  /* This is a better color */
   color: inherit;
 }
 
